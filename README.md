@@ -8,7 +8,8 @@ libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf 
   patchutils bc zlib1g-dev libexpat-dev ninja-build git cmake libglib2.0-dev</br>
   >./configure --prefix=/opt/riscv</br>
   >make</br>
-</p></br>2.install Yosys: </p> </br>
+
+</p>2.install Yosys: </p> </br>
 >git clone https://github.com/YosysHQ/yosys.git</br>
 >cd yosys </br>
 >sudo apt install make </br>
@@ -22,4 +23,5 @@ libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf 
 </p>3.install iverilog: </p>
 >sudo apt-get install iverilog </br>
 </p></p>4.install gtkwave: </p>
->sudo apt-get install gtkwave
+>sudo apt-get install gtkwave</br>
+![WhatsApp Image 2024-02-20 at 5 19 03 PM](https://github.com/Voidmarcos00/VSDSquadron-Mini/assets/114277461/f1767e0f-a7a8-43a6-afcd-fb724fb1be21)
