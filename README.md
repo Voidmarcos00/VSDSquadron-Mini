@@ -10,7 +10,7 @@ libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf 
   >make</br>
 ![WhatsApp Image 2024-02-20 at 5 16 52 PM](https://github.com/Voidmarcos00/VSDSquadron-Mini/assets/114277461/3e869b9e-efde-446d-bcee-f9836c02e605)
 
-</p>2.install Yosys: </p> </br>
+</p>2.install Yosys:</p> </br>
 git clone https://github.com/YosysHQ/yosys.git</br>
 cd yosys </br>
 sudo apt install make </br>
