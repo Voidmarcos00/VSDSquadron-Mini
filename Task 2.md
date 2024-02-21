@@ -1,5 +1,5 @@
 # Identify instruction types and exact 32-bit instruction code in the instruction type format
-RISC-V instructions are encoded using a fixed-length 32-bit format, which simplifies decoding and execution. The instruction formats are categorized into six types: R, I, S, B, U, and J. Each format serves a specific purpose and has a unique encoding structure:
+<b>RISC-V instructions are encoded using a fixed-length 32-bit format, which simplifies decoding and execution. The instruction formats are categorized into six types: R, I, S, B, U, and J. Each format serves a specific purpose and has a unique encoding structure:
 
 <b></p>R-type instructions:
 >Used for register-to-register operations, such as arithmetic and logical operations.</br>
