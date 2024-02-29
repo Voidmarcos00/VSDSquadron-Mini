@@ -15,7 +15,6 @@ int main() {
 
 }
 ```
-
 1. open a file named sum1ton.c from the terminal and type the above code into that file.
 
 
