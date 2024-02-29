@@ -36,5 +36,10 @@ int main() {
 <br>6. After running the compiled code result can be seen . 6
 
 <p align="centre">fig. 6</p>
+![WhatsApp Image 2024-02-29 at 12 07 10 PM](https://github.com/Voidmarcos00/VSDSquadron-Mini/assets/114277461/9ef28690-4820-48eb-bb4f-24d15efe1b4c)
+![WhatsApp Image 2024-02-29 at 12 07 13 PM](https://github.com/Voidmarcos00/VSDSquadron-Mini/assets/114277461/26cae71a-90ca-4ba3-abf6-2dd49c33f901)
+![WhatsApp Image 2024-02-29 at 12 07 16 PM](https://github.com/Voidmarcos00/VSDSquadron-Mini/assets/114277461/e1864afa-71e8-4c5f-bcea-b29a0e3d2561)
+![WhatsApp Image 2024-02-29 at 12 07 17 PM](https://github.com/Voidmarcos00/VSDSquadron-Mini/assets/114277461/5600c529-a037-431d-9478-02cdfef627fc)
+
 
 #### Lab2 : Usage of RISC V simulator, c program to compute sum of n numbers.
